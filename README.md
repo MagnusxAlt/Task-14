@@ -57,7 +57,7 @@ This task involves creating a free Virtual Machine (VM) on AWS using EC2, settin
    php -v
    mysql --version
    ```
-
+here i have installed mariadb instead of mysql becuase of some fault in the mysql server 
 ### 9. Start Mariadb Server and Log In
 1. Start the MySQL service:
    ```bash
